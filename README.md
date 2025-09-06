@@ -14,7 +14,6 @@
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
-https://avatars.githubusercontent.com/u/91705761?v=4
   - I am 19 years old, currently living in Brazil. I have experience with JavaScript, NodeJs and Java.
 
   - I enjoy reading, whether it's a good book, manga, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.

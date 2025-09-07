@@ -11,14 +11,11 @@
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with cybersecurity engineer.
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>  
+👨‍💻 More about me
   
    - 💬 I am 19 years old, currently living in Brazil. I have experience with JavaScript, NodeJs and Java.
 
    - ⚡ I enjoy reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
-</details>
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioVieira05&show_icons=false&theme=dark)

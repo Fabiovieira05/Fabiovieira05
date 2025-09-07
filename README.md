@@ -21,7 +21,7 @@
 </details>
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioVieira05&show_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioVieira05&show_icons=true&theme=dark)
 
 <!-- GIF -->
 ![tumblr_pbs3pjeo0s1wldgm8o1_640](https://github.com/user-attachments/assets/03f54a71-279e-4633-abc0-ad9eb14595d0)
